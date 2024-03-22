@@ -13,9 +13,8 @@ class NMGui(Gtk.Window):
     def __init__(self):
         Gtk.Window.__init__(self, title="Network Manager")
         self.set_border_width(10)
-        self.maximize()  # Maksymalizacja okna
+        self.maximize()
 
-        # Kontener przewijania dla siatki
         scrolled_window = Gtk.ScrolledWindow()
         scrolled_window.set_hexpand(True)
         scrolled_window.set_vexpand(True)
