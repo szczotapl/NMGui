@@ -27,7 +27,7 @@
     <li>Clone the repository:</li>
 </ol>
 
-<pre><code>git clone https://github.com/your_username/NMGui.git
+<pre><code>git clone https://github.com/riviox/NMGui.git
 </code></pre>
 
 <ol start="2">
@@ -38,26 +38,17 @@
 </code></pre>
 
 <ol start="3">
-    <li>Run the application:</li>
+    <li>Run:</li>
 </ol>
 
-<pre><code>python nm_gui.py
+<pre><code>nmgui
 </code></pre>
 
 <h2>Usage</h2>
 
 <ol>
-    <li>Launch the application.</li>
     <li>Click on the "Refresh" button to update the list of available network connections.</li>
     <li>Select a network from the list.</li>
     <li>Click on the "Connect" button to connect to the selected network.</li>
     <li>To disconnect from a network, select it from the list and click on the "Disconnect" button.</li>
 </ol>
-
-<h2>Contributing</h2>
-
-<p>Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on GitHub.</p>
-
-<h2>License</h2>
-
-<p>This project is licensed under the MIT License - see the LICENSE file for details.</p>
