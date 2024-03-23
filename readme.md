@@ -41,7 +41,7 @@
     <li>Run:</li>
 </ol>
 
-<pre><code>nmgui
+<pre><code>make install && nmgui
 </code></pre>
 
 <h2>Usage</h2>
